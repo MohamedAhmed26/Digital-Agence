@@ -643,7 +643,7 @@ margin-bottom: 10px;
 @media (max-width:767px) {
     .contact {
         justify-content: center;
-        height: 70vh;
+        height: 80vh;
     }
     .contact .container {
     grid-template-columns: repeat(auto-fill, minmax(100%, 1fr));
@@ -687,3 +687,4 @@ margin-bottom: 10px;
 }
 }
 /* End Foot */
+/* خلصنااااااااااااااااا */
